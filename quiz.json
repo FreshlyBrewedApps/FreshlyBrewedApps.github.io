@@ -5,7 +5,7 @@
          "question":  "What Game is this from?",
          "answerChoice": ["Super Mario Bros.", "Super Mario World", "Sonic the Hedgehog", "Call of duty", "Next Question"],
          "answer":  "Super Mario Bros.",
-         "image": "SuperMarioBrosMushroom",
+         "image": "SuperMarioBrosMushroom.jpeg",
          "type": "Image",
          "currentQuestionScoreValue": 1000
     },
